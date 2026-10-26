@@ -44,12 +44,17 @@ This is one of the fundamental concepts behind DAX.
 Use a measure for aggregations that should respond to slicers and visual filters. Use a calculated column for row-level values that need to be stored and used for filtering or relationships.
 
 For example,
+
 DAX Measure
+
 `Total Sales = SUM(sales[amount])`
+
 The same measure returns different values depending on the filter context in which it is evaluated.
 
-Calculated Column Example
+Calculated Column
+
 `Profit = sales[revenue] - sales[cost]`
+
 This calculates profit for each row and stores the result as a calculated column.
 
 ## ⭐ Key Takeaways:
