@@ -36,9 +36,8 @@ A calculated column is useful when you need a row-level value for slicing or rel
 
 Rule of thumb:
 
-Aggregating? → Measure.
-
-Slicing or relating on a per-row value? → Calculated Column.
+- Aggregating? → Measure.
+- Slicing or relating on a per-row value? → Calculated Column.
 
 ## ⭐ Key Takeaways:
 - Calculated columns are computed during data refresh.
