@@ -2,7 +2,7 @@
 
 ## 📌 Problem:
 
-Yesterday, SUMX "walked each row" and multiplied Quantity by Price. But how does it know which Quantity and Price belong to the row it's on?
+Yesterday, `SUMX` "walked each row" and multiplied Quantity by Price. But how does it know which Quantity and Price belong to the row it's on?
 
 This works as a calculated column:
 
