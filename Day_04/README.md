@@ -12,7 +12,7 @@ But writing the same formula as a measure causes an error.
 
 ### ❓ The question is:
 
-Why does Revenue - Cost work in a calculated column but break in a measure? What does the column have that the measure doesn't?
+Why does Revenue minus Cost work in a calculated column but break in a measure? What does the column have that the measure doesn't?
 
 **Bonus Question:**
 
