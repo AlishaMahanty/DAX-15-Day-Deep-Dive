@@ -22,7 +22,7 @@ Write the correct one-line formula.
 
 ## 💡 Solution:
 
-SUM vs SUMX: Why the Order of Operations Matters
+`SUM` vs `SUMX`: Why the Order of Operations Matters
 
 `SUM(Quantity) * SUM(Price)` multiplies two grand totals. It does not calculate revenue for each sale separately, so it mixes values from unrelated rows.
 
